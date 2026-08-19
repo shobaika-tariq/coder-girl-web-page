@@ -1,0 +1,54 @@
+body{
+    background-image: url(adult-beauty-blur-cute-558a75a98741c54989dbdfc8ce276cac.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+ul{
+    color: rgb(174, 213, 247);
+    display: flex;
+    justify-content: right;
+    gap: 55px;
+    font-size: 25px;
+    margin-right: 100px;
+}
+span{
+   margin-right: 450px;
+   font-size: 40px;
+  color: rgb(200, 14, 73);
+   
+}
+h1{
+    font-size: 40px;
+    font-weight: bolder;
+    color: goldenrod;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+p{
+     font-size: 30px;
+    font-weight: bolder;
+    color: rgb(179, 174, 174);
+    margin-top: 20px;
+    margin-left: 50px;
+}
+button{
+     background-color: #faf5f9;
+    color: #55b8e7;
+    border: none;
+    width: 140px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-left: 50px
+}
+button:hover{
+     width: 140px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 30px;
+    font-weight: bold;
+     background-color: transparent;
+    color:rgb(226, 175, 65);
+    border: 2px solid white;
+}
